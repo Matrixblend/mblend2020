@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Influence insight, inspiration and ideas.
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Matrixblend Media
+subheading: Educating creative peoples minds can change the world. 
 mainpitch:
-  title: Why Kaldi
+  title: Why digital education matters?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    As technology becomes more accessible accross the world, there will be a need of a talent pool of developers, online marketing experts, and more. With Matrixblend Media we will provide you with a one stop shop on how to apply these skills now to benefit your creative endevaour. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Knowing to take for example your bedroom production, to a competive level is a dynamic process, for you need a great mix, a master. And later you will need to know how to market it. But what about the knowledge to self fund money to fund your endevours? We answer these questions with one-on-one consultations, and of course our free content you can find through our site.
 intro:
   blurbs:
     - image: /img/coffee.png
